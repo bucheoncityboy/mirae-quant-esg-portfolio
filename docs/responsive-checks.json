@@ -1,0 +1,17 @@
+[
+  {
+    "viewport": 360,
+    "horizontalOverflow": false,
+    "featuredCards": 3
+  },
+  {
+    "viewport": 768,
+    "horizontalOverflow": false,
+    "featuredCards": 3
+  },
+  {
+    "viewport": 1280,
+    "horizontalOverflow": false,
+    "featuredCards": 3
+  }
+]

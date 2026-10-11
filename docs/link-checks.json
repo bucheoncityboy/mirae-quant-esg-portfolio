@@ -1,0 +1,80 @@
+[
+  {
+    "url": "https://github.com/NomaDamas/k-skill",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/company-analysis.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/government-bond-analysis.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/korean-bond-search.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/market-event-impact.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/blob/main/docs/features/multi-asset-morning-briefing.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/pull/675",
+    "status": "ok",
+    "merged": true
+  },
+  {
+    "url": "https://github.com/NomaDamas/k-skill/pull/677",
+    "status": "ok",
+    "merged": true
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/company-analysis-skill",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/fama-french-integrated-research",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/fama-french-integrated-research/tree/main/korea-market",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/fama-french-integrated-research/tree/main/us-ff1993",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/government-bond-analysis",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/korean-bond-search",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/market-event-impact",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/mirae-governance-vfs-research",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/mirae-governance-vfs-research/blob/main/docs/SUPPLEMENT_REPRODUCIBILITY.md",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/multi-asset-morning-briefing",
+    "status": "ok"
+  },
+  {
+    "url": "https://github.com/bucheoncityboy/portfolio-index",
+    "status": "ok"
+  }
+]
