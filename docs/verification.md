@@ -44,3 +44,5 @@ LinkedIn 로그인 이후 화면이나 실제 이메일 발송은 검사하지 �
 - GitHub 링크 19개를 다시 검사했고, 인덱스의 결론 링크도 실제 GitHub heading ID가 존재함을 확인했습니다.
 - 360·390·768·1280px에서 가로 넘침이 없었습니다. CSS와 favicon은 수정하지 않았습니다.
 - 원천 금융 패널과 통계 추정을 다시 실행하는 감사는 수행하지 않았습니다.
+
+수정 후 [재배포 Actions](https://github.com/bucheoncityboy/mirae-quant-esg-portfolio/actions/runs/38175629242)가 성공했습니다. 공개 홈페이지는 HTTP 200이고 최신 로컬 HTML과 일치했으며, 인덱스 README도 반영된 내용을 확인했습니다. 브라우저 새로고침 후 가중 방식·집단 정의가 표시되는 것을 확인했습니다.
