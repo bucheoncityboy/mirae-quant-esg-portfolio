@@ -1,0 +1,26 @@
+[
+  {
+    "path": "index.html",
+    "status": 200,
+    "contentMatches": true
+  },
+  {
+    "path": "styles.css",
+    "status": 200,
+    "contentMatches": true
+  },
+  {
+    "path": "assets/favicon.svg",
+    "status": 200,
+    "contentMatches": true
+  },
+  {
+    "path": "samples/2026-10-07.html",
+    "status": 200,
+    "contentMatches": true
+  },
+  {
+    "url": "https://bucheoncityboy.github.io/mirae-governance-vfs-research/",
+    "status": 200
+  }
+]

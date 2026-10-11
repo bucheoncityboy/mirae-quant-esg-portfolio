@@ -31,4 +31,4 @@ LinkedIn 로그인 이후 화면이나 실제 이메일 발송은 검사하지 �
 
 ## GitHub Pages
 
-배포 파일은 홈페이지·CSS·favicon·기존 공개 브리핑 샘플로 제한합니다. 최종 배포 결과는 GitHub Actions 실행과 공개 URL 응답으로 확인합니다.
+배포 파일은 홈페이지·CSS·favicon·기존 공개 브리핑 샘플로 제한합니다. [배포 Actions](https://github.com/bucheoncityboy/mirae-quant-esg-portfolio/actions/runs/38175019976)가 성공했고, [공개 홈페이지](https://bucheoncityboy.github.io/mirae-quant-esg-portfolio/)와 CSS·favicon·브리핑 샘플의 HTTP 200 및 배포한 내용 일치를 확인했습니다(줄바꿈 정규화 후 비교). VFS 실증 대시보드도 HTTP 200으로 응답했습니다. [배포 응답 기록](deployment-checks.json).
